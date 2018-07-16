@@ -1,0 +1,3 @@
+[submodule "components/libesphttpd"]
+	path = components/libesphttpd
+	url = git@github.com:UncleRus/libesphttpd.git
